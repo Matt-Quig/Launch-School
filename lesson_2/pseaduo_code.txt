@@ -1,0 +1,46 @@
+START
+ # Method that returns the sum of two integers
+
+GET value of first integer
+SET value to integer variable
+
+GET value of second integer
+SET value to integer vairable
+
+READ variable + variable
+PRINT output
+
+END
+
+
+
+
+START
+  # a method that takes an array of strings, and returns a string that is all those strings concatenated together
+
+GET first array
+SET first array to string variable
+
+GET second array
+SET second array to string variable
+
+
+PRINT two strings as a single new string
+
+END
+
+
+
+START
+  # a mothod that takes an array of integers and returns a new array with every other element
+
+GET array
+  SET array counter + 2 per interation
+  iterate over first array with counter
+
+SET new array with result of iteration
+PRINT new array
+
+END
+
+
